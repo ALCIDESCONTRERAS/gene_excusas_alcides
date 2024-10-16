@@ -1,1 +1,43 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background: rgb(213, 214, 186);
+  margin: 0;
+}
+
+h1 {
+  background: rgb(212, 244, 231);
+  text-align: center;
+}
+.cuerpo {
+  width: 500px;
+  height: 600px;
+  background: rgb(118, 173, 203);
+  margin: auto;
+}
+
+h2 {
+  display: inline-block;
+  width: 80%;
+  color: antiquewhite;
+}
+
+img {
+  width: 100%;
+  margin: 0;
+  position: relative;
+  margin-top: 0;
+}
+
+.fixed-bottom {
+  background: white;
+  position: relative;
+  text-align: right;
+  margin-top: 160px;
+  border: 1px solid black;
+}
+
+#Excusa_aleatoria {
+  border: 1px solid black;
+  color: white;
+  text-align: center;
+  position: relative;
+}
